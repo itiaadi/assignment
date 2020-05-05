@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\models",
+    "\\public",
+    "\\public\\stylesheets",
+    "\\routes",
+    "\\seed",
+    "\\views",
+    "\\views\\layouts",
+    "\\views\\movies",
+    "\\views\\partials"
+  ],
+  "SelectedNode": "\\models\\movieinfo.js",
+  "PreviewInSolutionExplorer": false
+}
